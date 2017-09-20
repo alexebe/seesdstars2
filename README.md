@@ -4,6 +4,6 @@
 <h2>
 Install python <br>
 Run: <div style="color:red"><i> python manage.py runserver 80 </i></div>from command line<br> 
-In your web brower, launch: localhost/ 
+In your web brower, launch: http://localhost/ <br>
 Enjoy!!
 </h2>
